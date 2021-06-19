@@ -1,11 +1,11 @@
 
-## 二进制文件下载地址：[release](https://github.com/xkznks/crack-soga/releases)
+## 二进制文件下载地址：[release](https://github.com/xkznks/soga/releases)
 
 
 ## 一键安装
 
 ``` bash
-bash < <(curl -Ls https://raw.githubusercontent.com/xkznks/crack-soga/main/install.sh)
+bash < <(curl -Ls https://raw.githubusercontent.com/xkznks/soga/main/install.sh)
 ```
 
 ## 同步时间：
@@ -49,5 +49,6 @@ docker run --restart=always --name soga -d -v /etc/soga/:/etc/soga/ --network ho
 --soga_key=soga666 \
 --node_id=1
 ```
+
 
 ## 该版本为学习测试，商业使用请支持正版：https://soga.vaxilu.com
